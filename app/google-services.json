@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806323393309",
+    "project_id": "earninapp-19bfd",
+    "storage_bucket": "earninapp-19bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806323393309:android:6e6344a2e72a8be140c7f4",
+        "android_client_info": {
+          "package_name": "com.example.earninapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806323393309-uuh7ura3usdq5a96nl5n197orc64lgfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZNvvxLUDhRedhCWPE8hSBYmhYCaIRYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806323393309-uuh7ura3usdq5a96nl5n197orc64lgfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
